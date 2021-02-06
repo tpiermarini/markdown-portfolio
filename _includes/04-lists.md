@@ -1,4 +1,4 @@
-pizza
-ice cream
-wendys
-mcdonalds
+- pizza
+- ice cream
+- wendys
+- mcdonalds
